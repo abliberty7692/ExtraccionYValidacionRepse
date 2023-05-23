@@ -1,0 +1,26 @@
+{
+  "name": "extraccion-repses",
+  "version": "1.0.0",
+  "description": "Programa para descargar y extraer información de los repses.",
+  "main": "script.js",
+  "test": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Respse",
+    "stps",
+    "extraccion"
+  ],
+  "author": "abl7692",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/storage-blob": "^12.12.0",
+    "adm-zip": "^0.5.10",
+    "arrays-to-csv": "^2.0.1",
+    "dotenv": "^16.0.3",
+    "node-unrar-js": "^2.0.0",
+    "pdf-parse": "^1.1.1",
+    "xlsx": "^0.18.5"
+  }
+}

@@ -1,0 +1,45 @@
+1683271862547	geckodriver	INFO	Listening on 127.0.0.1:62337
+1683271865536	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62338" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rreyes\\AppData\\Local\\Temp\\rust_mozprofilejYjhDs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683271866490	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683271866501	Marionette	INFO	Listening on port 62354
+Read port: 62354
+WebDriver BiDi listening on ws://127.0.0.1:62338
+1683271866809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rreyes\\AppData\\Local\\Temp\\rust_mozprofilejYjhDs\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:62338/devtools/browser/41945af1-85aa-45be-b04c-2eebcab9159e
+JavaScript error: https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.umd.js, line 2: TypeError: URL constructor: <iframe width="560" height="315" src="https://www.youtube.com/embed/i52Vj5ddhg4?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> is not a valid URL.
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://repse.stps.gob.mx."
+JavaScript error: , line 0: uncaught exception: Object
+console.error: ({})
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683271923323	Marionette	INFO	Stopped listening on port 62354
+Dynamically enable window occlusion 1
+1683271983298	geckodriver	INFO	Listening on 127.0.0.1:62715
+1683271986343	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62716" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rreyes\\AppData\\Local\\Temp\\rust_mozprofileCnFqnG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683271986976	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683271986985	Marionette	INFO	Listening on port 62732
+Read port: 62732
+WebDriver BiDi listening on ws://127.0.0.1:62716
+1683271987246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rreyes\\AppData\\Local\\Temp\\rust_mozprofileCnFqnG\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:62716/devtools/browser/61a04996-a1b1-47e2-8d13-138078dd3cd0
+JavaScript error: https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.umd.js, line 2: TypeError: URL constructor: <iframe width="560" height="315" src="https://www.youtube.com/embed/i52Vj5ddhg4?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> is not a valid URL.
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://repse.stps.gob.mx."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://repse.stps.gob.mx."
+JavaScript error: , line 0: uncaught exception: Object
+console.error: ({})
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
